@@ -52,5 +52,6 @@ We're very happy to accept contributions to this data. Please familiarize yourse
 with the schema for the data you're editing, and send us a pull request. See also the [Contributing file](https://github.com/mdn/data/blob/master/CONTRIBUTING.md) for more information.
 
 ## See also
-* [https://github.com/mdn/browser-compat-data](https://github.com/mdn/browser-compat-data)
+* [https://github.com/mdn/browser-compat-data]
+(https://github.com/mdn/browser-compat-data)
 for compatibility data for Web technologies.
